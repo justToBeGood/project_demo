@@ -1,0 +1,9 @@
+ syntax = "proto2";
+ package serialize;
+     option java_package = "com.demo.compared";
+     option java_outer_classname="UserVoProtos";
+     message User{
+     optional string name = 1;
+     optional int32 age = 2;
+     optional string phone = 3;
+     }
