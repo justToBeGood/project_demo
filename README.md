@@ -14,6 +14,9 @@ String比较测试；
 NIO-demo；
 Netty-demo；
 excel操作demo；
+zk的Curator框架的使用；
+log4j2的配置；
+swagger的配置使用；
 
 
 mongo-projec：
